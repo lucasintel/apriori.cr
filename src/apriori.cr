@@ -1,6 +1,4 @@
-# TODO: Write documentation for `Apriori`
-module Apriori
-  VERSION = "0.1.0"
+require "./apriori/*"
 
-  # TODO: Put your code here
+module Apriori
 end
